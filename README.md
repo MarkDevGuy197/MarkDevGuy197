@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarkDevGuy197 a Software Engineering and ADS Technician. I’m interested in ...
+- 👋 Hi, I’m @MarkDevGuy197 a Software Engineering student and ADS Technician. I’m interested to work in technologic companies!
 - 🌱 I’m currently learning Java, HTML, CSS, C#, MySQL, JavaScript and more!
 - 💞️ I’m looking to collaborate on projects and evolve my skills.
 - 📫 How to reach me: E-mail: markdev.guycodes@gmail.com
